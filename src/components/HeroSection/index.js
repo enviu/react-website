@@ -9,7 +9,7 @@ const HeroSection = () => {
     const onHover = () => {
         setHover(!hover)
     }
-    //lul
+
     return (
         <HeroContainer id='home'>
             <HeroBg>
